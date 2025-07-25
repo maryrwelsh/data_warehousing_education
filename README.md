@@ -38,6 +38,10 @@ This repository currently includes the following key documents:
     * **Description:** A detailed white paper exploring various data warehouse architectural patterns and their implications. It discusses the strengths and weaknesses of different approaches (e.g., centralized data warehouses, data marts, modern data lake/lakehouse architectures) and considerations for choosing the right architecture for specific business needs.
     * **Highlights:** Deep dives into architectural components, scalability considerations, and the evolution of data warehousing paradigms.
 
+* **`Data Warehouse Architecture White Paper.docx`**
+    * **Description:** A white paper that identifies significant challenges within a cloud spend data warehouse architecture, including issues with historical data, structural fragility, scalability, and performance. It proposes a strategic solution advocating for a traditional star schema dimensional modeling approach using the Kimball methodology to build a more robust, scalable, and performant data foundation.
+    * **Highlights:** The paper advocates for a strategic shift to a Kimball-based star schema to resolve current data warehouse deficiencies, enhancing scalability, performance, and overall usability.
+
 ## Purpose for Recruiters
 
 This repository serves as a direct demonstration of my theoretical knowledge and communication skills in the data warehousing domain. Recruiters reviewing this content can gain insight into my ability to:
