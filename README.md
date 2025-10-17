@@ -34,6 +34,10 @@ This repository currently includes the following key documents:
     * **Description:** A comprehensive presentation providing an overview of data warehousing, including its definition, benefits, common components, and the distinction between OLTP and OLAP systems. This presentation covers the fundamental concepts necessary for anyone new to the field or seeking a refresher.
     * **Highlights:** Explains the purpose of a data warehouse, introduces key terminology, and outlines the basic flow of data into a data warehouse.
 
+* **`Star Schemas.pptx`**
+    * **Description:** A focused presentation on star schema design, a fundamental dimensional modeling technique in data warehousing. This presentation covers the structure, benefits, and best practices for implementing star schemas in analytical databases.
+    * **Highlights:** Explores the components of star schemas (fact and dimension tables), their advantages for query performance, and their role in business intelligence solutions.
+
 * **`Data Warehouse Architecture White Paper.docx`**
     * **Description:** A detailed white paper exploring various data warehouse architectural patterns and their implications. It discusses the strengths and weaknesses of different approaches (e.g., centralized data warehouses, data marts, modern data lake/lakehouse architectures) and considerations for choosing the right architecture for specific business needs.
     * **Highlights:** Deep dives into architectural components, scalability considerations, and the evolution of data warehousing paradigms.
